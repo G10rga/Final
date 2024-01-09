@@ -5,6 +5,7 @@ click
 colorama
 Flask
 Flask-Bcrypt
+Flask-Admin
 Flask-Login
 Flask-Migrate
 Flask-SQLAlchemy
